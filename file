@@ -1,0 +1,77 @@
+
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="UTF-8">
+ <link rel="stylesheet" href="kadai5.css" type="text/css">
+<title>デザートカフェの紹介</title>
+ <style type="text/css">
+html {background-color:#FFEFD5} 
+body {width: 100%;}
+ol {width:50%;margin-left: auto;margin-right: auto;}
+body {
+    min-height:100vh;
+    max-width:800px;
+    margin:auto;
+    background-color:#FFFAFA;
+ div 
+</style>
+</head>
+
+<body>
+ <hr>
+  <div style="text-align: center">
+  <h1 align="center">デザートカフェ紹介</h1>
+ <hr>
+ <p>このページでは、おすすめの日本のデザートカフェを3つを紹介します。</p>
+
+<br>
+ <div id="div2">
+<p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">オリジナルパンケーキハウス新宿店</span></p>
+　　<li>住所：〒160-0022 東京都新宿区新宿３丁目３８−１ ルミネエスト新宿 7F　</li>
+　　<li>営業時間　11：00－22：00</li>
+　　<li>おすすめメニュー　
+<ul>ふわふわパンケーキ（ミックスフルーツ）</ul>
+<ul>絶品ふわとろチーズパンケーキ（ストロベリー）</ul> </li>
+<ul><img src="IMG_4163.jpeg"width="300" height="300"></ul>
+<a href="pancakep.html">詳細はこちらへ</a>
+</div>
+<br>
+
+ <div id="div3">
+<p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">MYSTAR BASE</span></p>
+<li>住所：〒211-0063 神奈川県川崎市中原区小杉町１丁目５４３−３　</li>
+<li>営業時間　11：00－19：00/休日：月曜日</li>
+<li>おすすめメニュー
+<ul>クリーム ブリュレ</ul>
+<ul>ストロベリー ショットケーキ</ul></li>
+<ul><img src="IMG_4159.jpeg"width="300" height="300"></ul>
+<a href="mystarbasem.html">詳細はこちらへ</a>
+ </div>
+ <br>
+
+ <div id="div4">
+<p><span style="border-radius: 0 15px 15px 0; border-left: inset; padding: 0.6em; background: #EBEEF0;">The Little BAKERY Tokyo</span></p>
+<li>住所：〒150-0001 東京都渋谷区神宮前６丁目１３−６　</li>
+<li>営業時間　10:00-19:00</li>
+<li>おすすめメニュー
+<ul>スマイル マンゴ</ul>
+<ul>シナモン シュガー</ul>
+<ul><img src="IMG_4164.jpeg"width="300" height="300"></ul>
+<a href="littlebakeryl.html">詳細はこちらへ</a>
+ </div>
+</body>
+
+
+
+<p class="msr_btn07">
+  <a href="index.html">トップページに戻る</a>
+<br>
+<p class="msr_btn07">
+  <a href="english.html">English版</a>
+
+</p>
+<footer>
+
+</html>
